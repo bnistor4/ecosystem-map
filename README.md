@@ -190,13 +190,6 @@ src/
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-Create a `.env` file for local development:
-```env
-VITE_API_URL=your_api_url_here
-```
-
 ### Customization
 
 - **Colors**: Modify Bootstrap variables in Sass files
